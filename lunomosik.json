@@ -1,0 +1,218 @@
+ { "Ads": [
+    {
+      "api_key_youtube":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "api_key_youtube2":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "api_key_youtube3":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "api_key_youtube4":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "api_key_youtube5":"AIzaSyB_Vr2XwYoHbQrxDW1mdjjdWN7KLvPrCuY",
+      "playlist_id":"",
+      "select_main_ads": "IRON",
+      "select_backup_ads":"",
+      "main_ads_banner": "DefaultBanner",
+      "main_ads_intertitial":"DefaultInterstitial",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"178df01e5",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More": [
+     
+  ],
+   "Video": [
+     {
+       "id": 1,
+       "name_category": "Funny Videos",
+       "title": "Света Кемер Попала В Летний Лагерь!",
+       "description": "Света Кемер Попала В Летний Лагерь!",
+       "image": "https://i.ytimg.com/vi/lOkIweFnvzg/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "lOkIweFnvzg"
+     },
+     {
+       "id": 2,
+       "name_category": "Funny Videos",
+       "title": "Типы Друзей со Светой Кемер !",
+       "description": "Типы Друзей со Светой Кемер !",
+       "image": "https://i.ytimg.com/vi/DcDe3GBNkYY/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "DcDe3GBNkYY"
+     },
+     {
+       "id": 3,
+       "name_category": "Funny Videos",
+       "title": "Экстремальные Прятки от Охранника в День Рождения Никиты!",
+       "description": "Экстремальные Прятки от Охранника в День Рождения Никиты!",
+       "image": "https://i.ytimg.com/vi/tEAKmYr9n_I/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "tEAKmYr9n_I"
+     },
+     {
+       "id": 4,
+       "name_category": "Funny Videos",
+       "title": "Каникулы Раньше VS Каникулы Сейчас",
+       "description": "Каникулы Раньше VS Каникулы Сейчас",
+       "image": "https://i.ytimg.com/vi/rgzs5oi5_rM/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "rgzs5oi5_rM"
+     },
+     {
+       "id": 5,
+       "name_category": "Funny Videos",
+       "title": "24 Часа В Магазине Сладостей со злым продавцом конфет.",
+       "description": "24 Часа В Магазине Сладостей со злым продавцом конфет.",
+       "image": "https://i.ytimg.com/vi/KCEr4uwaTOE/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "KCEr4uwaTOE"
+     },
+     {
+       "id": 6,
+       "name_category": "Funny Videos",
+       "title": "24 Часа В Поезде со Светой Кемер !",
+       "description": "24 Часа В Поезде со Светой Кемер !",
+       "image": "https://i.ytimg.com/vi/F-MzUDF92BM/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "F-MzUDF92BM"
+     },
+     {
+       "id": 7,
+       "name_category": "Funny Videos",
+       "title": "Хороший или Плохой Друг?",
+       "description": "Хороший или Плохой Друг?",
+       "image": "https://i.ytimg.com/vi/Emwo0pkVe-s/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "Emwo0pkVe-s"
+     },
+     {
+       "id": 8,
+       "name_category": "Funny Videos",
+       "title": "Последний День В Школе !",
+       "description": "Последний День В Школе !",
+       "image": "https://i.ytimg.com/vi/9wGXVA6L-gw/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "9wGXVA6L-gw"
+     },
+     {
+       "id": 9,
+       "name_category": "Funny Videos",
+       "title": "Нашли Шапку Невидимку!",
+       "description": "Нашли Шапку Невидимку!",
+       "image": "https://i.ytimg.com/vi/n_ww7HoBKFU/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "n_ww7HoBKFU"
+     },
+     {
+       "id": 10,
+       "name_category": "Funny Videos",
+       "title": "Типы Людей В Тренажерном Зале!",
+       "description": "Типы Людей В Тренажерном Зале!",
+       "image": "https://i.ytimg.com/vi/y-5RklMbF8M/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "y-5RklMbF8M"
+     },
+     {
+       "id": 11,
+       "name_category": "Funny Videos",
+       "title": "Игра в кальмара в реальной жизни",
+       "description": "Игра в кальмара в реальной жизни",
+       "image": "https://i.ytimg.com/vi/U-Xtk67dxdg/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "U-Xtk67dxdg"
+     },
+     {
+       "id": 12,
+       "name_category": "Funny Videos",
+       "title": "Младший и Старший Брат !",
+       "description": "Младший и Старший Брат !",
+       "image": "https://i.ytimg.com/vi/0Jb4lgcIwIg/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "0Jb4lgcIwIg"
+     },
+     {
+       "id": 13,
+       "name_category": "Funny Videos",
+       "title": "24 Часа Следим За Другом!",
+       "description": "24 Часа Следим За Другом!",
+       "image": "https://i.ytimg.com/vi/R1VvQT0fPBQ/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "R1VvQT0fPBQ"
+     },
+     {
+       "id": 14,
+       "name_category": "Funny Videos",
+       "title": "Самый Худший День Светы Кемер !",
+       "description": "Самый Худший День Светы Кемер !",
+       "image": "https://i.ytimg.com/vi/3et9m8C030M/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "3et9m8C030M"
+     },
+     {
+       "id": 15,
+       "name_category": "Funny Videos",
+       "title": "24 Часа На Диване Челлендж",
+       "description": "24 Часа На Диване Челлендж",
+       "image": "https://i.ytimg.com/vi/oo9L4CJGq1A/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "oo9L4CJGq1A"
+     },
+     {
+       "id": 16,
+       "name_category": "Funny Videos",
+       "title": "Никита Раздвоился!",
+       "description": "Никита Раздвоился!",
+       "image": "https://i.ytimg.com/vi/TABjI4_5zpg/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "TABjI4_5zpg"
+     },
+     {
+       "id": 17,
+       "name_category": "Funny Videos",
+       "title": "Нашли ПРИЗРАКА в Школе !",
+       "description": "Нашли ПРИЗРАКА в Школе !",
+       "image": "https://i.ytimg.com/vi/rnVQAzgoyXY/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "rnVQAzgoyXY"
+     },
+     {
+       "id": 18,
+       "name_category": "Funny Videos",
+       "title": "НАСТОЯЩАЯ Свадьба Светы и Никиты !",
+       "description": "НАСТОЯЩАЯ Свадьба Светы и Никиты !",
+       "image": "https://i.ytimg.com/vi/J3jSeLjq1TM/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "J3jSeLjq1TM"
+     },
+     {
+       "id": 19,
+       "name_category": "Funny Videos",
+       "title": "Никита Стал СУПЕРЗВЕЗДОЙ !",
+       "description": "Никита Стал СУПЕРЗВЕЗДОЙ !",
+       "image": "https://i.ytimg.com/vi/IQXaGMuwKKs/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "IQXaGMuwKKs"
+     },
+     {
+       "id": 20,
+       "name_category": "Funny Videos",
+       "title": "24 Часа Игнорируем Свету Кемер!",
+       "description": "24 Часа Игнорируем Свету Кемер!",
+       "image": "https://i.ytimg.com/vi/Sv7_t_mpTBI/maxresdefault.jpg",
+       "frame": "file:///android_asset/list1.png",
+       "videoid": "Sv7_t_mpTBI"
+     }
+   ]
+}
